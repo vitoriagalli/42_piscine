@@ -1,0 +1,6 @@
+Credentials cache: API:0C71788C-859A-4D5E-87B2-9D3DCF51902E
+        Principal: vscabell@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Oct  3 10:09:37 2019  Oct 10 10:09:37 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Oct  3 10:15:26 2019  Oct 10 10:09:37 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
