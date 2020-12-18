@@ -54,3 +54,6 @@ $ gcc -Wall -Werror -Wextra *.c && ./a.out
 
 
 *Disclaimer: I've fixed a lot of the exercises, and made new solutions to previous ones that I didn't completed during the piscine.*
+
+\
+[![HitCount](http://hits.dwyl.com/vscabell/42_piscine.svg)](http://hits.dwyl.com/vscabell/42_piscine)
